@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a 2nd year at Columbia University studying computer science and mathematics. I'm interested in machine learning and using data to create interesting things. I also like playing the violin in my spare time.
+
+You can reach me at: ssh2198@columbia.edu
 
 <!--
 **ssh2198/ssh2198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
