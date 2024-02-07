@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a 2nd year at Columbia University studying computer science and mathematics. I'm interested in machine learning and using data to create interesting things. I also like playing the violin in my spare time.
+I'm a 2nd year at Columbia University studying computer science and mathematics. I'm interested in machine learning and data analysis!
 
 You can reach me at: ssh2198@columbia.edu
 
