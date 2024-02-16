@@ -1,7 +1,7 @@
 ### Hello!
 My name is Sarah Hong, and I'm a 2nd year undergraduate at Columbia University double majoring in computer science and applied mathematics. I'm interested in machine learning and linear subpaces!
 
-![assets/catgif.gif](https://github.com/hyuncat/hyuncat/blob/main/assets/catgif.gif)
+<img src="./assets/snorlax.gif" alt="snorlax" width="120"/>
 
 You can reach me at: ssh2198@columbia.edu
 
