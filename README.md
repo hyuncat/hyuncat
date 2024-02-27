@@ -1,5 +1,5 @@
 ### Hello!
-My name is Sarah Hong, and I'm a 2nd year undergraduate at Columbia University double majoring in computer science and applied mathematics. I'm interested in machine learning and linear algebra!
+My name is Sarah Hong, and I'm a 2nd year undergraduate at Columbia University double majoring in computer science and applied mathematics. I'm interested in machine learning and building applications. I also like writing about various CS topics on my [blog](https://hyuncat.github.io/)!
 
 <img src="./assets/snorlax.gif" alt="snorlax" width="120"/>
 
