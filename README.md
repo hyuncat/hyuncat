@@ -1,5 +1,5 @@
 ### Hello!
-I'm Sarah, I'm a 2nd year undergraduate at Columbia University double majoring in computer science and applied mathematics. I'm interested in machine learning and building applications. Feel free to check out my website [here](https://hyuncat.github.io/).
+I'm Sarah, I'm a 2nd year undergraduate at Columbia University double majoring in computer science and applied mathematics. 
 
 <img src="./assets/snorlax.gif" alt="snorlax" width="120"/>
 
