@@ -1,7 +1,7 @@
 ### Hello! 👋
 I'm Sarah, I'm a 2nd year undergraduate at Columbia University double majoring in computer science and applied mathematics. I'm interested in algorithm development and machine learning!
 
-<img src="./assets/snorlax.gif" alt="snorlax" width="120"/> <-- (also me)
+<img src="./assets/snorlax.gif" alt="snorlax" width="120"/>
 
 ### Notable projects:
 | Tech Stack | Projects |
