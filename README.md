@@ -12,10 +12,9 @@ I'm Sarah, I'm a 2nd year undergraduate at Columbia University double majoring i
 
 
 ### 🌱 Currently:
-I'm excited to be spending this summer working on 3 distinct projects!
+I'm excited to be spending this summer working on 2 distinct projects!
 1. **RichStudio** _(UND Hur Lab)_ - A web-based application which implements a novel biological pathway clustering algorithm based on gene-level similarity. Hoping to release it as a package and write a publication by the end of summer!
 2. **DNA-origami** _(Columbia Gang Lab)_ - Developing algorithms and programmatic interfaces for finding optimal # of unique voxels and DNA bindings to create a desired nanoparticle unit lattice.
-3. **SmartCane** _(Columbia IRT Lab)_ - Implementing CV-based solutions for obstacle recognition for use in a haptic-powered smart walking cane.
 
 ### 🎧 Other interests:
 Outside of coding, I love music! I play violin in the Columbia University Orchestra and am involved in chamber music. I also like drawing and playing tennis in my free time.
