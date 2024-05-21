@@ -1,5 +1,5 @@
 ### Hello! 👋
-I'm Sarah, I'm a 2nd year undergraduate at Columbia University double majoring in computer science and applied mathematics.
+I'm Sarah, I'm a 2nd year undergraduate at Columbia University double majoring in computer science and applied mathematics. Broadly, I'm interested in algorithm development, machine learning, and probability theory.
 
 <img src="./assets/snorlax.gif" alt="snorlax" width="120"/>
 
