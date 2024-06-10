@@ -1,8 +1,6 @@
 ### Hello! 👋
 I'm Sarah, and I'm entering my 3rd year of undergraduate at Columbia University. I'm interested in algorithm development, machine learning, and probability theory (admittedly very broad interests) which tie together the various projects I work on.
 
-<img src="./assets/snorlax.gif" alt="snorlax" width="120"/>
-
 ### Notable projects:
 
 | Tech Stack | Projects |
@@ -12,19 +10,13 @@ I'm Sarah, and I'm entering my 3rd year of undergraduate at Columbia University.
 | <img src="https://github.com/hyuncat/hyuncat/assets/114366569/a29f90bc-056e-4408-bf2c-da6b2d47f6eb" alt="react" height="40" /> <img src="https://github.com/hyuncat/hyuncat/assets/114366569/446aaa1b-e59c-4a9d-a248-9568a72c50d1" alt="mongodb" height="40" /> <img src="https://github.com/hyuncat/hyuncat/assets/114366569/b17de0bc-3191-4b46-ae86-9fed1493dd90" alt="nodejs" width="40"/> | <ul><li><a href="https://github.com/hyuncat/daily-integral">daily-integral</a></li></ul> |
 | <img src="https://github.com/hyuncat/hyuncat/assets/114366569/cff4b98b-361b-4634-bf05-48a58d46ee18" height="40"> <img src="https://github.com/hyuncat/hyuncat/assets/114366569/34465749-d90c-4aa2-b8bf-de60a36ba04d" height="40"> <img src="https://github.com/hyuncat/hyuncat/assets/114366569/32cbfcf4-6154-4475-995b-3613caec3962" height="40"> <img src="https://github.com/hyuncat/hyuncat/assets/114366569/b17de0bc-3191-4b46-ae86-9fed1493dd90" alt="nodejs" width="40"/> | <ul><li><a href="https://github.com/hyuncat/hyuncat.github.io">my website</a></li></ul> |
 
-
-### 🌱 Currently:
-I'm spending this summer working on 4 distinct projects!
-1. **RichStudio** _(UND Hur Lab)_ - A web-based application which implements a novel biological pathway clustering algorithm based on gene-level similarity. Hoping to release it as a package and write a publication by the end of summer! Under supervision of Dr. Junguk Hur at UND.
-2. **DNA-origami** _(Columbia Gang Lab)_ - Developing algorithms and programmatic interfaces for finding optimal # of unique voxels and DNA bindings to create a desired nanoparticle unit lattice. Under supervision of Dr. Oleg Gang at Columbia University.
-3. **Walkwise** - Helping train and optimize a transformer model for predicting pedestrian movement at intersections: Kalman filtering, data pipelining, and model training. Under supervision of PhD. student Caspar Lant.
-4. **Violin-CV** - An independent project trying to analyze violin technique by synthesizing audio processing, transformer architecture, and computer vision techniques. Under supervision of NYU Professor Dennis Shasha.
-
 ### 🎧 Other interests:
-Outside of coding, I love music! I play violin in the Columbia University Orchestra and am involved in chamber music. I also like drawing and playing tennis in my free time.
+Outside of coding, I love music. I play violin in the Columbia University Orchestra and am involved in chamber music. I also like drawing and playing tennis in my free time.
+
+<img src="./assets/snorlax.gif" alt="snorlax" width="120"/> (I also like Pokemon!)
 
 ### 💬 Contact me:
-Feel free to reach out at ssh2198@columbia.edu! I'm always happy to create and work on new stuff. (Although maybe not this summer.)
+Feel free to reach out at ssh2198@columbia.edu! I'm always happy to create and work on new stuff.
 
 <!--
 **ssh2198/ssh2198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
