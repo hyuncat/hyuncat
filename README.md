@@ -16,7 +16,7 @@ Helping train and optimize a transformer model for predicting pedestrian movemen
 
 An independent project trying to analyze violin performance with dynamic time warping and signal processing techniques. Under supervision of the kind NYU professor Dennis Shasha.
 
-### 💬 Contact me:
+### 💬 Contact me
 <img src="./assets/snorlax.gif" alt="snorlax" width="120"/> 
 
 Feel free to reach out at ssh2198@columbia.edu! I'm always happy to create and work on new stuff.
