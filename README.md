@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Sarah, a rising 3rd year CS+math undergrad. I love art and music! Most of what I do is tied together by a love of art and the act of creating.
+I'm Sarah, a rising 3rd year CS+math undergrad. I love art and music! Underlying most of what I do is an appreciation for the art of building and creating. 
 
 ### Current projects
 
