@@ -12,7 +12,7 @@ An algorithm for finding the optimal # of unique voxel + DNA bonds to enable the
 
 Helping train and optimize a transformer model for predicting pedestrian movement at intersections: Kalman filtering, map-matching, data pipelining, and model training. Under supervision of PhD. student Caspar Lant.
 
-🎻 **Music-Captioner** | NYU Dennis Shasha Group
+🎻 **MIDI-templater** | NYU Dennis Shasha Group
 
 An independent project trying to analyze violin performance with dynamic time warping and signal processing techniques. Under supervision of the kind NYU professor Dennis Shasha.
 
