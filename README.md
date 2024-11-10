@@ -1,20 +1,16 @@
 ## About Me
 
-I'm Sarah, a rising 3rd year CS+math undergrad. I love art and music! Underlying most of what I do is an appreciation for the art of building and creating. 
+I'm Sarah, a 3rd year undergrad studying CS+math. I love art and music! Underlying most of what I do is an appreciation for the art of building and creating.
 
-### Current projects
+### Current Research
 
-🧩 **Coloring Algorithm** | Columbia Gang Lab
+🧩 **CHROMAssembly** | Columbia Gang Lab
 
-An algorithm for finding the optimal # of unique voxel + DNA bonds to enable the self-assembly of a DNA nanoparticle lattice structure. Under supervision of Dr. Oleg Gang at Columbia University.
+An algorithm for finding the optimal # of unique voxel + DNA bonds to enable the self-assembly of a DNA nanoparticle lattice structure. Under supervision of Dr. Jason Kahn at Brookhaven and Dr. Oleg Gang at Columbia University.
 
-🚦 **(Pre-)Walkwise** | Columbia IRT Lab
+🎻 **virtuOS** | NYU Dennis Shasha Group
 
-Helping train and optimize a transformer model for predicting pedestrian movement at intersections: Kalman filtering, map-matching, data pipelining, and model training. Under supervision of PhD. student Caspar Lant.
-
-🎻 **MIDI-templater** | NYU Dennis Shasha Group
-
-An independent project trying to analyze violin performance with dynamic time warping and signal processing techniques. Under supervision of the kind NYU professor Dennis Shasha.
+A computational practice tool for musicians. Tracks the user's pitch over time and compares it to the MIDI score of the piece, and gives feedback on rhythm, intonation, and style. Implements PYIN algorithm for pitch detection, and dynamic time warping for MIDI-audio alignment. Under supervision of the kind NYU professor Dennis Shasha.
 
 ### 💬 Contact me
 <img src="./assets/snorlax.gif" alt="snorlax" width="120"/> 
