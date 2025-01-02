@@ -4,7 +4,7 @@ I'm Sarah, a 3rd year undergrad studying CS+math. I love art and music! Underlyi
 
 ### Current Research
 
-🧩 **CHROMAssembly** | Columbia Gang Lab
+🧩 **MOSES** | Columbia Gang Lab
 
 An algorithm for finding the optimal # of unique voxel + DNA bonds to enable the self-assembly of a DNA nanoparticle lattice structure. Under supervision of Dr. Jason Kahn at Brookhaven and Dr. Oleg Gang at Columbia University.
 
