@@ -1,37 +1,23 @@
-## About Me
+## About me
 
-I'm Sarah, a 3rd year undergrad studying CS+math. I love art and music! Underlying most of what I do is an appreciation for the art of building and creating.
+I'm Sarah, a 3rd year undergrad studying CS+math. I'm involved in a lot of seemingly unrelated research, tied together by a faint interest in math and a passion for creating. Outside of research, I play violin and help lead the Columbia Robotics Club.
 
-### Current Research
+### Current research
 
 🧩 **MOSES** | Columbia Gang Lab
 
-An algorithm for finding the optimal # of unique voxel + DNA bonds to enable the self-assembly of a DNA nanoparticle lattice structure. Under supervision of Dr. Jason Kahn at Brookhaven and Dr. Oleg Gang at Columbia University. Our paper was submitted to ACS Nano!
+A foundational algorithm applying the group theoretic concept of 'symmetry' to chemical engineering. An information-minimizing method for to designing self-assembling DNA origami nanoparticle lattices. Under supervision of Dr. Jason Kahn at Brookhaven and Dr. Oleg Gang at Columbia University. Our paper was accepted to ACS Nano!
 
-🎻 **violin-sally** | NYU Dennis Shasha Group
+🎻 **Synchrony** | NYU Dennis Shasha Group
 
-A computational practice tool for musicians. Tracks the user's pitch over time and compares it to the MIDI score of the piece, and gives feedback on rhythm, intonation, and style. Implements PYIN algorithm for pitch detection, and a modified version of the Levenshtein string edit algorithm for MIDI-audio alignment / feedback. Under supervision of the kind NYU professor Dennis Shasha.
+An opinionated practice tool for musicians, which compares a user's recording to a MIDI score and computes the user's mistakes in real-time. Uses a probabilistic pitch detection method that utilizes the MIDI to detect note events. Under supervision of the kind NYU professor Dennis Shasha.
 
 🧬 **RichCluster** | UND Hur Lab
 
-A tool to cluster different biological 'terms' based on overlapping gene content. Coded in C++ for fast clustering, with customizable linkage / distance metrics and supporting visualizations, exported into an R package. (Paper-in-progress)
+An Rcpp library for performing hierarchical clustering on multiple enriched genomics datasets. Clusters different biological 'terms' based on overlapping gene content. Coded in C++ for fast clustering, with customizable linkage / distance metrics and supporting visualizations. (Paper-in-progress)
+
 
 ### 💬 Contact me
 <img src="./assets/snorlax.gif" alt="snorlax" width="120"/> 
 
-Feel free to reach out at ssh2198@columbia.edu! I'm always happy to create and work on new stuff.
-
-<!--
-**ssh2198/ssh2198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: ssh2198@columbia.edu
